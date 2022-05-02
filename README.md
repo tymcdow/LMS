@@ -67,6 +67,14 @@ Requirements
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/93413757/166240785-86915b69-422e-4854-ba38-355da1211923.png">
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/93413757/166240815-3fc28ebf-f168-4634-abbc-708280562f1f.png">
 
-How to use
+How to Run
+-----------------------------------------
+•	Download this repo and extract it in your www/htdocs directory.
+
+•	Import the [database] from LibraryNew.db.
+
+•	Run localhost/(Your folder name)
+![image](https://user-images.githubusercontent.com/93413757/166247693-1b1484c0-0ccc-4c2e-ac78-049119ce7f38.png)
+
 
 
