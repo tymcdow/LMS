@@ -74,7 +74,7 @@ How to Run
 •	Import the [database] from LibraryNew.db.
 
 •	Run localhost/(Your folder name)
-![image](https://user-images.githubusercontent.com/93413757/166247693-1b1484c0-0ccc-4c2e-ac78-049119ce7f38.png)
+
 
 
 
